@@ -2,67 +2,64 @@
 Dokumentasi Cara Menggunakan Botika Text to Speech by Taichi
 ###########################################
 
-Untuk membuat teks menjadi suara tidaklah sulit, hal ini karena adanya situs text to speech seperti botika.online/texttospeech yang bisa membantu pengguna, terutama untuk membuat suara untuk konten video di TikTok maupun YouTube.
+Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan sound of text.
 
-Saat ini banyak kreator mencoba mengasah kemampuannya dengan membuat video menarik di berbagai platform, namun terkadang rasa gugup kerap melanda ketika harus menjelaskan sesuatu atau menyampaikan narasi lewat video.
+Sebab Google Translate tidak bisa menyimpan audio sehingga kamu bisa membuatnya melalui situs sound of text. Ada beberapa cara downlaod suara Google 'ada WA masuk’ menggunakan beberapa situs.
 
-Sebagai solusinya bisa memanfaatkan teknologi text to speech melalui situs botoka.online, yang bisa mengubah teks menjadi suara untuk kebutuhan narasi video. Jadi, tidak perlu lagi merekam suara secara manual yang rentan kesalahan.
+Untuk hasilnya memang akan cukup memuaskan suara yang dihasilkan umumnya akan berbeda diantara situs tersebut. Dengan kata-kata tersebut nantinya juga bisa divariasikan agar tidak hanya menarik tetapi juga lucu.
 
-Sekilas Tentang Botika.online
-==================
-Botika.online merupakan situs yang dapat digunakan kreator membuat teks jadi suara, hasil konversi suaranya pun terdengar cukup natural sehingga cocok untuk narasi video, bahkan kerap digunakan untuk membuat nada dering WA (baca juga: https://www.stiead.ac.id/cara-buat-botika-jadi-nada-dering-wa/).
+Cara Download Suara Google Ada WA Masuk dengan Sound of Text
+=======================
 
-Jika tertarik membuat suara menggunakan teknologi text to speech, maka bisa kunjungi situs botika.online/texttospeech yang bisa diakses secara gratis. Tentunya bisa dimanfaatkan untuk membuat suara dari tulisan dengan praktis.
+Untuk menggunakan suara Google, kamu bisa memanfaatkan berbagai situs sound of text yang ada di internet. Berbagai suara bisa kamu dapat di platform itu dan berikut tutorial selengkapnya:
 
-Situs Botika.online memang banyak digunakan karena memiliki fitur unggulan, salah satunya adalah suara perempuan yang terdengar natural, hasil konversi teks menjadi suara yang dihasilkan tidak seperti robot yang terkesan kaku.
+#1 Suara Spongebob
+---------------
 
-Fitur Unggulan Botika.online
-==================
-Botika.online menawarkan teknologi text to speech yang bisa menghasilkan suara buatan cukup dengan mengetikkan teks. Jadi, kamu tidak perlu merekam suara menggunakan alat perekam khusus. Lalu, apa fitur Botika.online ini?
+Suara Google yang bisa kamu manfaatkan sebagai notifikasi Whatsapp adalah Spongebob. Suara yang dihasilkan dari salah satu tokoh kartun tersebut hingga kini banyak diminati oleh orang dari semua kalangan.
 
-1. Antarmuka Sederhana
---------------------------
-Situs Botika text to speech memiliki tampilan yang sederhana, hal ini tentunya akan sangat mudah digunakan oleh siapa saja, serta tanpa perlu repot login terlebih dahulu, pengguna hanya perlu memasukan teks di kolom yang tersedia. 
+Rata-rata suara dari tokoh tersebut tergolong lucu dan akan mampu menghibur orang yang mendengarkannya. Bagi kamu yang ingin mencoba membuatnya, berikut beberapa langkah yang perlu dilakukan:
 
-2. Format Suara Berkualitas
---------------------------
-Untuk memberikan hasil keluaran suara yang berkualitas, situs Botika mengemas suara dalam format mp3 sehingga dijamin terdengar jernih dan jelas, maka bisa digunakan untuk mengisi suara di konten video maupun nada dering WhatsApp.
+1. Kamu bisa membuka aplikasi browser di smartphone lalu ketikkan situs berikut fakeyou.com
+2. Kemudian kamu bisa mulai masuk di categories filter lalu pilih cartoons.
+4. Pada sisi kanan dari kategori tersebut, kamu bisa memilih Spongebob SquarePants.
+5. Kamu bisa melanjutkan dengan memilih tokoh Spongebob di bagian voice.
+6. Pada kolom teks yang tersedia, kamu bisa mengetikkan kata-kata ada WA masuk.
+7. Ketika proses pengaturan selesai, kamu bisa mengklik speak.
+8. Untuk melihat hasilnya, kamu bisa scroll ke bawah lalu pilih download untuk mengunduh file audionya.
+9. Ketika menggunakan situs tersebut, kamu bisa memilih tokoh-tokoh yang disukai dari sisi suaranya. Di dalamnya terdapat 39 voice atau tokoh Spongebob yang dapat kamu pilih dan nantinya bisa di download ke smartphone.
 
-3. Pilihan Karakter Suara
---------------------------
-Pada situs botika.online/texttospeech hanya menyediakan dua pilihan karakter suara perempuan saja, meskipun tidak ada pilihan suara laki-laki, namun suara yang dihasilkan terdengar natural dan alami, tidak terdengar seperti suara robot.
+Karena proses percobaan dari beberapa tokoh maka kamu tidak perlu langsung mengklik download tetapi bisa memilih play terlebih dahulu. Setelah kamu mendapatkan suara terbaik maka bisa langsung mengklik download untuk mulai mengunduh audio.
 
-Dengan mengetahui fitur unggulan situs Botika text to speech ini, maka tidak ada alasan lagi untuk mencoba membuat teks menjadi suara melalui situs ini. Lalu, apa kelebihannya?
+#2 Suara Wanita
+----------------
 
-Kelebihan Situs Botika.online
-==================
-Ada beberapa kelebihan situs pengubah teks jadi suara Botika text to speech dibandingkan dengan situs lainnya, salah satunya suara yang dihasilkan terdengar lebih jernih dan natural. Adapun kelebihannya sebagai berikut:
+Umumnya suara wanita lebih disukai daripada suara pria saat digunakan untuk notifikasi di Whatsapp. Bagi kamu yang menginginkan hal ini maka bisa memanfaatkan situs Sound of text untuk membuatnya.
 
-1. Layanan tersedia berupa situs dan aplikasi.
-2. Praktis dan mudah digunakan oleh siapa saja
-3. Hasil suara bisa download untuk berbagai kebutuhan.
-4. Gratis digunakan tanpa dikenakan biaya
-5. Suara terbilang natural dan beraksen Indonesia
-6. Hasil suara berkualitas dengan format mp3
-7. Aman digunakan karena tidak perlu login
+Dalam proses pembuatannya cukup mudah dan kamu bisa langsung menggunakan dengan cara sebagai berikut:
 
-Jika kamu ingin mencoba membuat nada dering WhatsApp atau membuat narasi suara untuk video, maka bsia gunakan situs Botika.online dengan mudah dan praktis. Lalu, bagaimana cara menggunakan situs text to speech ini?
+1. Bukalah aplikasi browser yang ada di ponsel kamu dan ketikkan situs soundoftext.com di kolom pencarian.
+2. Pada bagian text, kamu bisa langsung mengetikkan kata-kata ada WA masuk.
+3. Kemudian di kolom voice, kamu bisa memilih Indonesia.
+4. Selanjutnya kamu bisa scroll ke bawah lalu pilih play untuk memutar
+5. Jika suaranya sudah sesuai, kamu bisa langsung mengklik download untuk mulai mengunduh.
+6. Dengan situs Sound of text, suara yang dihasilkan tergolong merdu karena menggunakan suara wanita. Hal yang perlu kamu perhatikan ketika membuat adalah jumlah karakternya dibatasi sebanyak 200 karakter saja.
 
-Cara Menggunakan Botika.online
-==================
-Untuk membuat suara dengan mengetikan teks saja melalui situs botika.online/texttospeech tidaklah aulit, caranya mudah dan tidak membutuhkan waktu lama. Untuk lebih jelasnya, mari simak tutorial selengkapnya di bawah ini!
+Jadi ketika menggunakan kata-kata selain di atas, kamu perlu mengukur dan menghitung berapa jumlah karakternya. Selain itu, di situs tersebut tidak hanya bahasa Indonesia melainkan bisa juga menggunakan bahasa Jawa.
 
-1. Buka halaman situs botika.online/TextToSpeech/
-2. Kemudian pada kolom Text to Speech, tuliskan teks
-3. Setelah itu, pilih karakter suara yang diinginkan
-4. Terdapat dua karakter suara perempuan, pilih salah satu
-5. Centang bagian Saya Bukan Robot
-6. Klik Play, untuk mendengarkan suara
-7. Klik icon Download, untuk mengunduh suara
+Untuk hasil yang lebih maksimal, kamu bisa mencoba dari dua pilihan tersebut untuk di convert menjadi audio. Setelah menemukan yang terbaik maka kamu bisa langsung mengunduhnya dan menyimpan di smartphone.
 
-Itulah cara membuat teks menjadi suara menggunakan situs Botika.online, kamu tidak perlu bersusah payah membuat suara menggunakan alat perekam, cukup menuliskan teks saja pada kolom yang sudah disediakan. Mudah bukan?
+Cara Mengganti Nada Dering WhatsApp dengan Suara Google
+=======================
 
-Demikian pembahasan seputar fitur dan kelebihan situs Botika.online untuk mengubah teks menjadi suara, hasil suara yang terbilang natural dengan aksen Indonesia yang kental. Semoga informasinya bermanfaat.
+Setelah proses pembuatan audio file selesai, kamu bisa mengganti nada dering tersebut dengan cara sebagai berikut:
+
+1. Buka aplikasi Whatsapp dan silahkan kamu update terlebih dahulu di Google Play.
+2. Kamu bisa klik tiga titik di kanan atas lalu pilih setelan.
+3. Kemudian kamu bisa memilih menu notifikasi lalu pilih salah satu antara pesan, group atau panggilan.
+4. Pada bagian tersebut, kamu bisa pilih nada dering lalu klik pilih dari file.
+5. Terakhir kamu bisa memilih nada dering yang sudah dibuat di bagian atas tersebut.
+6. Dengan cara downlaod suara Google 'ada WA masuk’kamu tentunya bisa memilih situs mana yang terbaik. Setelah audionya selesai, kamu bisa menggunakan untuk berbagai notifikasi seperti chat, group atau panggilan di Whatsapp. Sekian dan terimakasih.
 
 
 ********
@@ -73,7 +70,7 @@ Contents
    :maxdepth: 2
 
    style-guide
-   contribute/index
+   iphone/index
 
 
 ******************
