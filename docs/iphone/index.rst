@@ -29,7 +29,7 @@ Cara Download Nada Dering iPhone
 
 Setelah mendapatkan link unduhan nada dering di YouTube, maka kamu harus melakukan konversi terlebih dahulu agar bisa dipasang di smartphone sebagai nada dering iPhone atau notifikasi WhatsApp. Adapun caranya sebagai berikut:
 
-1. Buka situs https://ytmp3.cc/
+1. Buka situs `MP3 Juice <https://www.sebuahutas.com/2022/03/mp3-juice-untuk-download-lagu-mp3-dari.html>`_
 2. Paste atau tempel link YouTube di kolom yang tersedia
 3. Klik tombol Convert, untuk melakukan proses konversi
 4. Setelah itu, klik tombol Download MP3
