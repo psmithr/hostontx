@@ -1,5 +1,5 @@
 ###########################################
-Dokumentasi Cara Menggunakan Suara Google di WA
+Dokumentasi Nada Dering Suara Google
 ###########################################
 
 Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan `sound of text <https://karinov.co.id/sound-of-text-wa/>`_.
@@ -59,8 +59,10 @@ Setelah proses pembuatan audio file selesai, kamu bisa mengganti nada dering ter
 3. Kemudian kamu bisa memilih menu notifikasi lalu pilih salah satu antara pesan, group atau panggilan.
 4. Pada bagian tersebut, kamu bisa pilih nada dering lalu klik pilih dari file.
 5. Terakhir kamu bisa memilih nada dering yang sudah dibuat di bagian atas tersebut.
-6. Dengan cara downlaod suara Google 'ada WA masuk’kamu tentunya bisa memilih situs mana yang terbaik. Setelah audionya selesai, kamu bisa menggunakan untuk berbagai notifikasi seperti chat, group atau panggilan di Whatsapp. Sekian dan terimakasih.
 
+Dengan cara downlaod suara Google 'ada WA masuk' kamu tentunya bisa memilih situs mana yang terbaik. Setelah audionya selesai, kamu bisa menggunakan untuk berbagai notifikasi seperti chat, group atau panggilan di Whatsapp. Sekian dan terimakasih.
+
+Untuk lebih lanjut membaca mengenai nada dering wa suara Google, kamu dapat mempelajarinya lewat tulisan berikut ini: https://whitepaper.co.id/cara-nada-dering-wa-suara-google/
 
 ********
 Contents
@@ -72,11 +74,3 @@ Contents
    style-guide
    iphone/index
 
-
-******************
-Indices and tables
-******************
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
