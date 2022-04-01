@@ -45,7 +45,7 @@ Dalam proses pembuatannya cukup mudah dan kamu bisa langsung menggunakan dengan 
 5. Jika suaranya sudah sesuai, kamu bisa langsung mengklik download untuk mulai mengunduh.
 6. Dengan situs Sound of text, suara yang dihasilkan tergolong merdu karena menggunakan suara wanita. Hal yang perlu kamu perhatikan ketika membuat adalah jumlah karakternya dibatasi sebanyak 200 karakter saja.
 
-Jadi ketika menggunakan kata-kata selain di atas, kamu perlu mengukur dan menghitung berapa jumlah karakternya. Selain itu, di situs tersebut tidak hanya bahasa Indonesia melainkan bisa juga menggunakan bahasa Jawa.
+Jadi ketika menggunakan kata-kata selain di atas, kamu perlu mengukur dan menghitung berapa jumlah karakternya. Selain itu, di situs tersebut tidak hanya bahasa Indonesia melainkan bisa juga menggunakan bahasa Jawa dengan tools berikut ini: https://www.voiceoftext.com/p/sound-of-text-javanese.html
 
 Untuk hasil yang lebih maksimal, kamu bisa mencoba dari dua pilihan tersebut untuk di convert menjadi audio. Setelah menemukan yang terbaik maka kamu bisa langsung mengunduhnya dan menyimpan di smartphone.
 
@@ -62,7 +62,7 @@ Setelah proses pembuatan audio file selesai, kamu bisa mengganti nada dering ter
 
 Dengan cara downlaod suara Google 'ada WA masuk' kamu tentunya bisa memilih situs mana yang terbaik. Setelah audionya selesai, kamu bisa menggunakan untuk berbagai notifikasi seperti chat, group atau panggilan di Whatsapp. Sekian dan terimakasih.
 
-Untuk lebih lanjut membaca mengenai nada dering wa suara Google, kamu dapat mempelajarinya lewat tulisan berikut ini: https://whitepaper.co.id/cara-nada-dering-wa-suara-google/
+Untuk lebih lanjut membaca mengenai nada dering wa suara Google, kamu dapat mempelajarinya lewat tulisan berikut ini: https://www.statmat.net/sound-text-nada-dering-wa/
 
 ********
 Contents
