@@ -2,7 +2,7 @@
 Dokumentasi Cara Menggunakan Suara Google di WA
 ###########################################
 
-Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan sound of text.
+Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan `sound of text <https://karinov.co.id/sound-of-text-wa/>`_.
 
 Sebab Google Translate tidak bisa menyimpan audio sehingga kamu bisa membuatnya melalui situs sound of text. Ada beberapa cara downlaod suara Google 'ada WA masuk’ menggunakan beberapa situs.
 
@@ -22,12 +22,12 @@ Rata-rata suara dari tokoh tersebut tergolong lucu dan akan mampu menghibur oran
 
 1. Kamu bisa membuka aplikasi browser di smartphone lalu ketikkan situs berikut fakeyou.com
 2. Kemudian kamu bisa mulai masuk di categories filter lalu pilih cartoons.
-4. Pada sisi kanan dari kategori tersebut, kamu bisa memilih Spongebob SquarePants.
-5. Kamu bisa melanjutkan dengan memilih tokoh Spongebob di bagian voice.
-6. Pada kolom teks yang tersedia, kamu bisa mengetikkan kata-kata ada WA masuk.
-7. Ketika proses pengaturan selesai, kamu bisa mengklik speak.
-8. Untuk melihat hasilnya, kamu bisa scroll ke bawah lalu pilih download untuk mengunduh file audionya.
-9. Ketika menggunakan situs tersebut, kamu bisa memilih tokoh-tokoh yang disukai dari sisi suaranya. Di dalamnya terdapat 39 voice atau tokoh Spongebob yang dapat kamu pilih dan nantinya bisa di download ke smartphone.
+3. Pada sisi kanan dari kategori tersebut, kamu bisa memilih Spongebob SquarePants.
+4. Kamu bisa melanjutkan dengan memilih tokoh Spongebob di bagian voice.
+5. Pada kolom teks yang tersedia, kamu bisa mengetikkan kata-kata ada WA masuk.
+6. Ketika proses pengaturan selesai, kamu bisa mengklik speak.
+7. Untuk melihat hasilnya, kamu bisa scroll ke bawah lalu pilih download untuk mengunduh file audionya.
+8. Ketika menggunakan situs tersebut, kamu bisa memilih tokoh-tokoh yang disukai dari sisi suaranya. Di dalamnya terdapat 39 voice atau tokoh Spongebob yang dapat kamu pilih dan nantinya bisa di download ke smartphone.
 
 Karena proses percobaan dari beberapa tokoh maka kamu tidak perlu langsung mengklik download tetapi bisa memilih play terlebih dahulu. Setelah kamu mendapatkan suara terbaik maka bisa langsung mengklik download untuk mulai mengunduh audio.
 
