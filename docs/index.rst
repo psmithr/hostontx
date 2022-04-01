@@ -8,20 +8,16 @@ Saat ini banyak kreator mencoba mengasah kemampuannya dengan membuat video menar
 
 Sebagai solusinya bisa memanfaatkan teknologi text to speech melalui situs botoka.online, yang bisa mengubah teks menjadi suara untuk kebutuhan narasi video. Jadi, tidak perlu lagi merekam suara secara manual yang rentan kesalahan.
 
-*******
 Sekilas Tentang Botika.online
-*******
-
+==================
 Botika.online merupakan situs yang dapat digunakan kreator membuat teks jadi suara, hasil konversi suaranya pun terdengar cukup natural sehingga cocok untuk narasi video, bahkan kerap digunakan untuk membuat nada dering WA (baca juga: https://www.stiead.ac.id/cara-buat-botika-jadi-nada-dering-wa/).
 
 Jika tertarik membuat suara menggunakan teknologi text to speech, maka bisa kunjungi situs botika.online/texttospeech yang bisa diakses secara gratis. Tentunya bisa dimanfaatkan untuk membuat suara dari tulisan dengan praktis.
 
 Situs Botika.online memang banyak digunakan karena memiliki fitur unggulan, salah satunya adalah suara perempuan yang terdengar natural, hasil konversi teks menjadi suara yang dihasilkan tidak seperti robot yang terkesan kaku.
 
-*******
 Fitur Unggulan Botika.online
-*******
-
+==================
 Botika.online menawarkan teknologi text to speech yang bisa menghasilkan suara buatan cukup dengan mengetikkan teks. Jadi, kamu tidak perlu merekam suara menggunakan alat perekam khusus. Lalu, apa fitur Botika.online ini?
 
 1. Antarmuka Sederhana
@@ -38,10 +34,8 @@ Pada situs botika.online/texttospeech hanya menyediakan dua pilihan karakter sua
 
 Dengan mengetahui fitur unggulan situs Botika text to speech ini, maka tidak ada alasan lagi untuk mencoba membuat teks menjadi suara melalui situs ini. Lalu, apa kelebihannya?
 
-*******
 Kelebihan Situs Botika.online
-*******
-
+==================
 Ada beberapa kelebihan situs pengubah teks jadi suara Botika text to speech dibandingkan dengan situs lainnya, salah satunya suara yang dihasilkan terdengar lebih jernih dan natural. Adapun kelebihannya sebagai berikut:
 
 1. Layanan tersedia berupa situs dan aplikasi.
@@ -54,10 +48,8 @@ Ada beberapa kelebihan situs pengubah teks jadi suara Botika text to speech diba
 
 Jika kamu ingin mencoba membuat nada dering WhatsApp atau membuat narasi suara untuk video, maka bsia gunakan situs Botika.online dengan mudah dan praktis. Lalu, bagaimana cara menggunakan situs text to speech ini?
 
-*******
 Cara Menggunakan Botika.online
-*******
-
+==================
 Untuk membuat suara dengan mengetikan teks saja melalui situs botika.online/texttospeech tidaklah aulit, caranya mudah dan tidak membutuhkan waktu lama. Untuk lebih jelasnya, mari simak tutorial selengkapnya di bawah ini!
 
 1. Buka halaman situs botika.online/TextToSpeech/
@@ -70,7 +62,7 @@ Untuk membuat suara dengan mengetikan teks saja melalui situs botika.online/text
 
 Itulah cara membuat teks menjadi suara menggunakan situs Botika.online, kamu tidak perlu bersusah payah membuat suara menggunakan alat perekam, cukup menuliskan teks saja pada kolom yang sudah disediakan. Mudah bukan?
 
-Demikian pembahasan seputar fitur dan kelebihan situs Botika.online untuk mengubah teks menjadi suara, hasil suara yang terbilang natural dengan aksen Indonesia yang kental. Semoga informasinya bermanfaat!
+Demikian pembahasan seputar fitur dan kelebihan situs Botika.online untuk mengubah teks menjadi suara, hasil suara yang terbilang natural dengan aksen Indonesia yang kental. Semoga informasinya bermanfaat.
 
 
 ********
