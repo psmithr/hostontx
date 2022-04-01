@@ -1,5 +1,5 @@
 ###########################################
-Dokumentasi Cara Menggunakan Botika Text to Speech by Taichi
+Dokumentasi Cara Menggunakan Suara Google di WA
 ###########################################
 
 Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan sound of text.
