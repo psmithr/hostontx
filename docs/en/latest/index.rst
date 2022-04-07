@@ -1,4 +1,4 @@
-Cara Download Nada Dering Andin Keren untuk WhatsApp
+Nada Dering Andin Keren
 ==============================
 
 Ada banyak audio menarik dan unik yang bisa dijadikan sebagai nada notifikasi WhatsApp, salah satu yang sedang populer saat ini adalah nada dering WA Andin, nada panggilan telepon keren yang kerap digunakan pada sinetron Ikatan Cinta.
