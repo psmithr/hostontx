@@ -50,7 +50,7 @@ Untuk mengganti atau memasang nada dering WhatsApp dengan menggunakan nada derin
 6. Terakhir klik Save
 7. Cara Ganti Nada Dering iPhone
 
-Adapun cara mengganti nada dering atau notifikasi iPhone bisa melalui pengaturan smartphone, cara ini berlaku untuk iOS 10 ke atas. Untuk lebih jelasnya, berikut caranya: 
+Adapun cara mengganti nada dering atau notifikasi iPhone bisa melalui pengaturan smartphone, cara ini berlaku untuk iOS 10 ke atas. Untuk lebih jelasnya, kamu juga bisa membaca tutorial `ganti nada dering iPhone <https://www.giftcard.co.id/nada-dering-suara-google-di-iphone/>`_ berikut ini, secara singkat berikut caranya: 
 
 1. Buka aplikasi Pengaturan iPhone
 2. Kemudian pilih menu Sound
