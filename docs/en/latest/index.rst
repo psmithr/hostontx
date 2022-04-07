@@ -8,7 +8,7 @@ Bagi sebagian orang memasang nada dering WA menggunakan suara yang unik dan kere
 Seperti halnya nada dering Andin, yang merupakan suara nada notifikasi atau panggilan telepon masuk yang ada di sinetron Ikatan Cinta. Kamu pun bisa memasangnya di smartphone untuk nada dering WhatsApp atau notifikasi pesan. Untuk mendownload lebih banyak jenis nada dering iPhone yang keren dan lucu, kamu juga bisa merujuk ke halaman berikut ini: https://whitepaper.co.id/50-download-nada-dering-wa-pendek/
 
 Hal Penting Sebelum Ganti Nada Dering WA
-=================
+--------------
 
 Ada beberapa hal yang perlu kamu ketahui sebelum ganti nada dering WhatsApp, pada aplikasi pesan instan ini terdapat pilihan nada yang bisa diubah sesuai keinginan.
 
@@ -17,7 +17,7 @@ Pada WhatsApp terdapat pilihan nada dering untuk pesan masuk, nada group, dan na
 Jika kamu tertarik memasang nada dering WA Andin, maka bisa download melalui layanan pihak ketiga atau menggunakan nada dering yang bisa diperoleh di YouTube. Berikut tutorial cara mengunduhnya.
 
 Cara Download Nada Dering WA Andin
-==================
+--------------
 
 Untuk mendapatkan nada dering Andin bisa mencarinya di aplikasi YouTube, dengan format file berupa video mp4. Agar bisa dipasang sebagai nada dering di hp maka perlu diubah terlebih dahulu menjadi format mp3. Berikut caranya:
 
@@ -33,7 +33,7 @@ Untuk mendapatkan nada dering Andin bisa mencarinya di aplikasi YouTube, dengan 
 10. Selesai
 
 Download Nada Dering Andin di MP3Juices
-===================
+--------------
 
 Adapun alternatif untuk download nada dering WA Andin bisa melalui situs MP3Juices, situs ini memberikan kemudahan bagi yang ingin mengunduh nada dering dengan cara cukup tuliskan kata kunci yang diinginkan. Caranya sebagai berikut:
 
@@ -46,7 +46,7 @@ Adapun alternatif untuk download nada dering WA Andin bisa melalui situs MP3Juic
 Cara ini terbilang cukup praktis karena kamu cukup tuliskan kata kunci atau nama nada dering yang diinginkan, kemudian bisa mendengarkan terlebih dahulu sebelum mengunduhnya.
 
 Cara Memasang Nada Dering WA Andin
-===================
+--------------
 
 Untuk kamu yang ingin menggunakan nada dering Andin untuk notifikasi WhatsApp, berikut ini langkah-langkah cara memasang nada dering WA dengaj mudah.
 
