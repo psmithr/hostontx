@@ -73,4 +73,5 @@ Contents
 
    style-guide
    iphone/index
+   en/latest/index
 
