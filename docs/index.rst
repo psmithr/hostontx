@@ -1,5 +1,5 @@
 ###########################################
-Dokumentasi Nada Dering Suara Google
+Dokumentasi Nada Dering WhatsApp Suara Google
 ###########################################
 
 Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan `sound of text <https://karinov.co.id/sound-of-text-wa/>`_.
@@ -75,3 +75,4 @@ Contents
    iphone/index
    en/latest/index
    sound-of-text/index
+   aplikasi-wa-modifikasi/index
