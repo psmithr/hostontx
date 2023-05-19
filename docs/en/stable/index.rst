@@ -1,2 +1,0 @@
-Suara Google Translate
-=================
