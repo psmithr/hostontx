@@ -43,4 +43,4 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   style-guide
+   coffee-shop/index
